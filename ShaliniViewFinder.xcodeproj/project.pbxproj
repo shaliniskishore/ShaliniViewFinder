@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		18CFB80222C26E48003AC9F4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18CFB80122C26E48003AC9F4 /* AppDelegate.swift */; };
-		18CFB80422C26E48003AC9F4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18CFB80322C26E48003AC9F4 /* ViewController.swift */; };
 		18CFB80722C26E48003AC9F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18CFB80522C26E48003AC9F4 /* Main.storyboard */; };
 		18CFB80A22C26E48003AC9F4 /* ShaliniViewFinder.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 18CFB80822C26E48003AC9F4 /* ShaliniViewFinder.xcdatamodeld */; };
 		18CFB80C22C26E4B003AC9F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18CFB80B22C26E4B003AC9F4 /* Assets.xcassets */; };
@@ -18,7 +17,6 @@
 /* Begin PBXFileReference section */
 		18CFB7FE22C26E48003AC9F4 /* ShaliniViewFinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ShaliniViewFinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18CFB80122C26E48003AC9F4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		18CFB80322C26E48003AC9F4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		18CFB80622C26E48003AC9F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		18CFB80922C26E48003AC9F4 /* ShaliniViewFinder.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ShaliniViewFinder.xcdatamodel; sourceTree = "<group>"; };
 		18CFB80B22C26E4B003AC9F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -57,7 +55,6 @@
 			isa = PBXGroup;
 			children = (
 				18CFB80122C26E48003AC9F4 /* AppDelegate.swift */,
-				18CFB80322C26E48003AC9F4 /* ViewController.swift */,
 				18CFB80522C26E48003AC9F4 /* Main.storyboard */,
 				18CFB80B22C26E4B003AC9F4 /* Assets.xcassets */,
 				18CFB80D22C26E4B003AC9F4 /* LaunchScreen.storyboard */,
@@ -139,7 +136,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				18CFB80A22C26E48003AC9F4 /* ShaliniViewFinder.xcdatamodeld in Sources */,
-				18CFB80422C26E48003AC9F4 /* ViewController.swift in Sources */,
 				18CFB80222C26E48003AC9F4 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
